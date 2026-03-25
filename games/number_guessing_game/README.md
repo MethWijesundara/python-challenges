@@ -9,4 +9,4 @@ A simple command-line game where the player tries to guess a random number betwe
 1. Run the game using Python:
 
 ```bash
-python main.py
+number_guessing_game.py
