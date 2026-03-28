@@ -1,1 +1,1 @@
-# Python exercises , games and tutorials.
+# Python exercises, games, tutorials, and mini projects.
